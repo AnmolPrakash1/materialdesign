@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AndroidIntern_Mukul</string>
+    <string name="material_design_logo">Material Design Logo</string>
+    <string name="my_project_logo">My Project Logo</string>
+    <string name="my_project">My Project</string>
+    <string name="material_design">Material Design</string>
+    <string name="profile_tags">CodeWithANMOL · Android Developer · Learner</string>
+    <string name="profile_name">ANMOL PRAKASH</string>
+    <string name="back_arrow">Back Arrow</string>
+    <string name="about">Larry Gagosian opened his first gallery in Los Angeles in 1980, specializing in modern and
+        contemporary art. Five years later, he expanded his activities to New York, inaugurating his first Chelsea gallery
+        with an exhibition of works from the Pop art collection of Emily and Burton Tremaine.
+     </string>
+</resources>
